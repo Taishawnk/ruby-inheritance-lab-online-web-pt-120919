@@ -2,8 +2,8 @@
 def initialize
     @knowledge =[]
   end
-  def learn 
-    @knowledge 
+  def learn(string)
+    @knowledge << sting 
   end
   def knowledge
     return @knowledge
