@@ -5,6 +5,6 @@ def teach
   KNOWLEDGE.sample
 end
 def learn 
- @knowledge << KNOWLEDGE
+
 end
 end
