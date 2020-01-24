@@ -4,4 +4,8 @@ def initialize
   end
   def learn 
     @knowledge 
+  end
+  def knowledge
+    return @knowledge
+end 
 end 
