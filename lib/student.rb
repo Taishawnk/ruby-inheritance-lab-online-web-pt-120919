@@ -3,7 +3,7 @@ def initialize
     @knowledge =[]
   end
   def learn(string)
-    @knowledge << sting 
+    @knowledge << string
   end
   def knowledge
     return @knowledge
